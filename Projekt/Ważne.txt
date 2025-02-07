@@ -1,0 +1,2 @@
+min. 3 tabelaryczne przypadki użycia
+min. 2 diagramy obiektów
